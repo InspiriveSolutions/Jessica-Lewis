@@ -1,0 +1,167 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1125px;
+	 height: 3302px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Ellipse3 
+{ 
+	 left: -431px; 
+	 top: -750px; 
+	 position: absolute; 
+	 width: 2274px;
+	 height: 4053px;
+	 z-index:1;
+} 
+
+ #Video 
+{ 
+	 left: 82px; 
+	 top: 2724px; 
+	 position: absolute; 
+	 width: 962px;
+	 height: 542px;
+	 z-index:2;
+} 
+
+ #OurServices 
+{ 
+	 left: -389px; 
+	 top: 2058px; 
+	 position: absolute; 
+	 width: 1417px;
+	 height: 633px;
+	 z-index:3;
+} 
+
+ #Address 
+{ 
+	 left: 213px; 
+	 top: 1937px; 
+	 position: absolute; 
+	 width: 677px;
+	 height: 81px;
+	 z-index:4;
+} 
+
+ #website 
+{ 
+	 left: 213px; 
+	 top: 1826px; 
+	 position: absolute; 
+	 width: 507px;
+	 height: 70px;
+	 z-index:5;
+} 
+
+ #Email 
+{ 
+	 left: 212px; 
+	 top: 1705px; 
+	 position: absolute; 
+	 width: 514px;
+	 height: 70px;
+	 z-index:6;
+} 
+
+ #ContactNo 
+{ 
+	 left: 213px; 
+	 top: 1584px; 
+	 position: absolute; 
+	 width: 491px;
+	 height: 69px;
+	 z-index:7;
+} 
+
+ #Contactus 
+{ 
+	 left: -392px; 
+	 top: 1437px; 
+	 position: absolute; 
+	 width: 853px;
+	 height: 86px;
+	 z-index:8;
+} 
+
+ #Download 
+{ 
+	 left: 820px; 
+	 top: 1272px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 100px;
+	 z-index:9;
+} 
+
+ #LinkedIn 
+{ 
+	 left: 601px; 
+	 top: 1261px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 100px;
+	 z-index:10;
+} 
+
+ #Facebook 
+{ 
+	 left: 395px; 
+	 top: 1208px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 100px;
+	 z-index:11;
+} 
+
+ #Instagram 
+{ 
+	 left: 206px; 
+	 top: 1109px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 100px;
+	 z-index:12;
+} 
+
+ #Followus 
+{ 
+	 left: 450px; 
+	 top: 1128px; 
+	 position: absolute; 
+	 width: 225px;
+	 height: 38px;
+	 z-index:13;
+} 
+
+ #JessicaLewisPic 
+{ 
+	 left: 66px; 
+	 top: 676px; 
+	 position: absolute; 
+	 width: 995px;
+	 height: 449px;
+	 z-index:14;
+} 
+
+ #Logo 
+{ 
+	 left: 155px; 
+	 top: 49px; 
+	 position: absolute; 
+	 width: 783px;
+	 height: 587px;
+	 z-index:15;
+} 
